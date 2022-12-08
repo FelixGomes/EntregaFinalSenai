@@ -1,0 +1,17 @@
+.card-title{
+    padding-top: 10px;
+    padding-left: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.card-content p{
+    padding: 20px;
+    text-align: justify;
+    overflow: auto;
+}
+
+.card{
+    padding: 10px;
+}
+
